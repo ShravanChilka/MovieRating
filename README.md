@@ -2,7 +2,7 @@
 API based Movie Rating App using Recycler View\
 The data is fetched from www.themoviedb.org via URL as JSON objects using Volley Library and Glide Library\
 Learned how JSON object & API works \
-Recycler View is used for displaying the list \
+Recycler View is used for displaying the list
 
 
 
